@@ -57,6 +57,6 @@ WildPokemon: WildPokemon follow Trainers when Trainers land directly on them. Wh
 
 -If you want Wild Pokemon to follow you you must travel to their exact location (ie their location needs to be your destination). If you pass through them while moving they will not follow you (you are not showing them the attention they deserve!!) In general, try to get Wild Pokemon to follow you because they can increase your health and thus increase your chance of beating Pokemon Gyms
 
-#Have Fun!
+# Have Fun!
 
 
