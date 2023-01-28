@@ -14,6 +14,8 @@ T stands for Trainer. These are the players that you can move across the grid. T
 
 W stands for Wild Pokemon. Wild Pokemon will follow trainers if trainers go directly to their location. When they follow trainers, the trainer gains health because the Pokemon is so cute it improves the trainer's mental health. 
 
+The main goal of the game is to beat all the Pokemon Gyms. 
+
 # Game Commands:
 There are various commands you can enter to play the game. Below they are described. 
 
