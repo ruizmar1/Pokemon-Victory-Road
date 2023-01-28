@@ -50,7 +50,7 @@ Trainers: Trainers are the main component of the game. A trainer has a certain a
 
 WildPokemon: WildPokemon follow Trainers when Trainers land directly on them. When they follow Trainers they increase the Trainers' health because they are so cute. At any given point a Wild Pokemon is either still on the grid or following a Trainer. 
 
-#Random, but important, Rules
+# Random, but important, Rules
 -If you use the move command to travel to a gym the gym will not let you complete any battles. You MUST use the move to gym command (g) before battling in a gym. In general, if you want to travel to a Pokemon Gym to battle, use the g command over the m command to get to the gym.
 
 -If you use the move command to travel to a center, the center will not let you buy potions. You MUST use the gym to center command (c) before buying potions. In general, if you want to travel to a Pokemon Center to buy potions, use the c command over the m command to get to the center.
